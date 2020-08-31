@@ -28,4 +28,4 @@
 
 ## 課程錄影播放清單
 
-- [334 期暑期密集班，資工系 204 教室，台大資訊系統訓練班]()
+- [334 期暑期密集班，資工系 204 教室，台大資訊系統訓練班](https://www.youtube.com/playlist?list=PLEq7iw5uOtuUnuBtk68TLBW_kuUnSLLG0)
