@@ -25,7 +25,3 @@
 - [Python 機器學習（第二版）](https://www.books.com.tw/products/0010797010)
 - [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/)
 - [DataCamp](https://www.datacamp.com/search?q=python&tap_a=5644-dce66f&tap_s=194899-1fb421&utm_medium=affiliate&utm_source=tonykuo)
-
-## 課程錄影播放清單
-
-- [334 期暑期密集班，資工系 204 教室，台大資訊系統訓練班](https://www.youtube.com/playlist?list=PLEq7iw5uOtuUnuBtk68TLBW_kuUnSLLG0)
