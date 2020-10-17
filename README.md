@@ -2,9 +2,9 @@
 
 > Course repository of Introduction to Machine Learning with Python.
 >
-> https://www.sli.do #70791
+> https://www.sli.do #84973
 >
-> yaojenkuo@datainpoint.com
+> 郭耀仁 <yaojenkuo@datainpoint.com> from [DATAINPOINT](https://www.datainpoint.com/)
 
 ## 點選圖示啟動環境
 
@@ -12,7 +12,7 @@
 
 ## 課程共筆
 
-<https://colab.research.google.com/drive/1jPxFhRc-rSquCv3ew7-PytCPf-A6zGpY?usp=sharing>
+<https://colab.research.google.com/drive/1g-9XoS1mMO47RZ1iQKxf5_6HeO1fbJeZ?usp=sharing>
 
 ## 課程教材
 
